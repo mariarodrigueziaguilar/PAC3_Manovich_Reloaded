@@ -97,7 +97,7 @@ Els dos exemples són clarament dissenys disruptius que s’utilitzen per millor
 
 
 
-### Referencies y Bibliografía
+### Referències y Bibliografia
 
 *Mojang AB. TM Microsoft Corporation*. **Microsoft extends access to Minecraft: Education Edition and resources to support remote learning.** 2023 (s. f.). education.minecraft.net. https://education.minecraft.net/es-es/blog/microsoft-extends-access-to-minecraft-education-edition-and-resources-to-support-remote-learning
 
