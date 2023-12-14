@@ -30,7 +30,7 @@ Gràcies aquesta nova forma de treballar, podem crear prototips i productes tota
 
 
 
-### Re-descubrint la hibridació: 1r exemple
+### Redescobrint la hibridació: Cas 1
 
 ![Minecraft:Education Edition](https://i.postimg.cc/MHLqJVvh/MC-EDU-Blog-Image-Atlanta-Student-Ambassadors-800x600.jpg)
 > Captura del joc Minecraft: Education Edition, podem veure un professor a una clase creat amb blocs tridimensionals.
@@ -43,24 +43,30 @@ Aquesta eina fomenta la creativitat, en el joc original la creativitat s’utili
 
 Finalment, els professors es poden fer valdre d’aquesta eina per poder així incentivar i aprofitar l’èxit d’aquest joc per motivar als seus alumnes en el procés d’aprenentatge. Els educadors poden crear entorns virtuals de l’assignatura o del concepte que volen treballar i fer que els alumnes interactuïn i explorin. Poden aprendre mentre exploren, sobre biologia, història, geografia, programació. 
 
-Exemples: Els alumnes poden crear conjuntament una estructura històrica amb els blocs del joc, creant una versió digital de l’estructura arquitectònica, mentre que a la vegada aprenen d’història i arquitectura. Un altre exemple d’hibridació seria un entorn creat pels professors, on s’explica l’ecosistema marí i els alumnes amb els seus avatars poden entrar i aprendre d’una manera interactiva i molt visual. 
-
 Finalment, gràcies a aquesta adaptació del joc, podem trobar la hibridació com combina la popularitat del joc amb objectius educatius. La inclusió d’un contingut educatiu dins d’un entorn familiar per als estudiants ajuda que l’aprenentatge sigui més atractiu i participatiu. En l’àmbit educatiu es pot aprofitar aquesta gamificació per involucrar als seus estudiants de manera activa, proporcionant una manera d’aprenentatge no convencional i única. 
 
 ***Exemples***
+1r Exemple:
+Creació d'una estructura historica amb els blocs tridimensionals del joc, com a activitat de classe col·laborativa. Aprendre creant en versió digital una estructura arquitectonica mentre aprenen historia i l'antiga arquitectura. 
+
+2n Exemple:
+Classe digital, on el professorat pot crear un entorn totalment tematiztat per ensenyar el concepte o la materia que vulgui donar. 
+
+3r Exemple:
+Creació d'un entorn virtual sobre el llibre que han de llegir a classe. Poden recrear la historia o escollir un moment destacat per cadascun d'ells i recrear-lo. O poden escenificar d'una manera resumida la historia, en comptes de fer un resum del llibre. 
 
 
-
-### Re-descubrint la hibridació: 2n exemple
+### Redescobrint la hibridació: Cas 2
 
 ![Black Mirror: Bandersnatch](https://i.postimg.cc/FFk90C8v/2f1d7cd098a5d26c876ef7eb4f9744475-ES1247020-MG346088005.jpg)
 > Captura d'un moment decisiu a la serie de Black Mirror: Bandersnatch. 
 
 El segon exemple d’hibridació a l’actualitat és el capitol de la serie BlackMirror: “Bandersnatch”. Podriem definir-lo com un format de cine interactiu. Crea una harmonia amb la combinació d’elements de cine convencional amb moments de interactivitat amb l’usuari i li dona un format mes actualitzat a la visualització de contingut en-linia. 
 
-En aquest capitol els espectadors poden prendre decisions claus que afectaran als transcurs de la historia. En comptes de seguir l’estrctura lineal d’una pelicula, permet a l’usuari influir cap on vol que vagi la historia. És un clar exemple d’hibridació on l’experencia d’usuari es sumament important i manté una participació activa, al gust del espectador. A més li fa saber que la seva opinió importa i que pot canviar el transcurs de la historia amb multiples finals posibles. Aixó fa que enriquexi la historia i s’agregui complexitat i participació activa per part de l’usuari. 
+En aquest capitol els espectadors poden prendre decisions claus que afectaran als transcurs de la historia. En comptes de seguir l’estrctura lineal d’una pelicula, permet a l’usuari influir cap on vol que vagi la historia, el convida a qüestionar les pròpies eleccions i la influència que poden tenir sobre els personatges, generant una reflexió híbrida sobre la relació entre l'audiència i la narrativa.
+És un clar exemple d’hibridació on l’experencia d’usuari es sumament important i manté una participació activa, al gust del espectador. A més li fa saber que la seva opinió importa i que pot canviar el transcurs de la historia amb multiples finals posibles. La trama convida els espectadors a qüestionar les pròpies eleccions i la influència que poden tenir sobre els personatges, generant una reflexió híbrida sobre la relació entre l'audiència i la narrativa. Aixó fa que enriquexi la historia i s’agregui complexitat i participació activa per part de l’usuari. 
 
-En aquest cas la finalitat és transformar la experencia audiovisual tradicional en una experiencia multidimensional i revolucionaria. Podem introduir també la remediació i la transformació de combinar elements cinematografics amb la capacitat de prendre decisions del espectador, a més crea un entreteniment completament novedos. 
+En aquest cas la finalitat és transformar la experencia audiovisual tradicional en una experiencia multidimensional i revolucionaria. Podem introduir també la remediació i la transformació de combinar elements cinematografics amb la capacitat de prendre decisions del espectador, a més crea un entreteniment completament novedos. A més a més, a mesura que els espectadors prenen decisions, la narrativa es ramifica en diferents direccions, portant a la creació de múltiples línies temporals i realitats paral·leles. Aquesta exploració de narratives ramificades fusiona elements de ciència-ficció amb l'estructura no lineal pròpia dels videojocs, creant una experiència híbrida.
 
 Podriem dir que aquest nou enfocament permet explorar noves maneres de explicar histories d’una manera participativa en la narrativa de la historia on els espectadors no nomes son observadors pasius, fent que la convergencia de medis en el entorn digital pugui donar lloc a experiencies més enriquides i complexes. 
 
@@ -68,10 +74,21 @@ Finalment, aquesta funció transgressora redefineix la narrativa visual audiovis
 
 ***Exemples***
 
+1r Exemple:
+Esmorçar amb l'Stefan:
+L'usuari ha de decidir quins cereals menjarà l'Stefan, depenent el que escolleixi establira un to o un altre en la relació de les decisions de l'espectador que influiran al llarg del capitol. 
+
+2n Exemple:
+Viatje en autobus:
+Aquí l'Stefan ha de decidir si accepta anar a casa del Colin, depenent si accepta o no, tindra clares afectacions en la relació dels dos i canviarà la trama en general. 
+
+3r Exemple:
+Fi del joc:
+Aquesta elecció final afectara com acaba la serie i el desti del Stefan. 
 
 ## Conclusió final
 
-Els dos exemples son clarament dissenys disruptius que s’utilitzen per millorar la qualitat del servei i oferir una perspectiva diferent en cada ambit. La hibridació en aquests dos casos enriqueix signifitcament l’experiencia de l’usuari. Uneix elements que per naturalessa en un primer moment no lligen entre ells y crea un producte potent amb creativitat i innovació en l’actualitat. 
+Els dos exemples son clarament dissenys disruptius que s’utilitzen per millorar la qualitat del servei i oferir una perspectiva diferent en cada ambit. La hibridació en aquests dos casos enriqueix signifitcament l’experiencia de l’usuari. Uneix elements que per naturalessa en un primer moment no lligen entre ells y crea un producte potent amb creativitat i innovació en l’actualitat. A més crea una certa complexitat on l'usuari ha de prendre decisions que afectaràn al resultat final. Tant en la serie fa que l'usuari és qüestioni i s'interessi més per la trama, per altra banda en el cas de la versio educativa de Minecraft, és important saber jugar i prendre bones decisions per a que el resultat final sigui l'esperat. 
 
 
 
