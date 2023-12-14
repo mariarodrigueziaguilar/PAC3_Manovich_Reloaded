@@ -34,7 +34,7 @@ Gràcies a aquesta nova forma de treballar, podem crear prototips i productes to
 ### Redescobrint la hibridació: Cas 1
 
 ![Minecraft:Education Edition](https://i.postimg.cc/MHLqJVvh/MC-EDU-Blog-Image-Atlanta-Student-Ambassadors-800x600.jpg)
->* Captura del joc Minecraft: Education Edition, podem veure un professor a una clase creat amb blocs tridimensionals.*
+> *Captura del joc Minecraft: Education Edition, podem veure un professor a una clase creat amb blocs tridimensionals.*
 
 El primer exemple d’hibridació que he escollit és el **joc de Minecraft la versió Education Edition**. Es tracta d’un joc de construcció on el jugador pot construir i explorar mons virtuals, fent servir els blocs tridimensionals. En la versió educacional hi trobem aquest entorn de construcció utilitzat per estudiants i la creació de treballs col·laboratius en un entorn virtual. 
 
