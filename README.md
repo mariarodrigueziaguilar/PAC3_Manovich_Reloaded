@@ -36,17 +36,17 @@ Gràcies a aquesta nova forma de treballar, podem crear prototips i productes to
 ![Minecraft:Education Edition](https://i.postimg.cc/MHLqJVvh/MC-EDU-Blog-Image-Atlanta-Student-Ambassadors-800x600.jpg)
 > *Captura del joc Minecraft: Education Edition, podem veure un professor a una clase creat amb blocs tridimensionals.*
 
-El primer exemple d’hibridació que he escollit és el **joc de Minecraft la versió Education Edition**. Es tracta d’un joc de construcció on el jugador pot construir i explorar mons virtuals, fent servir els blocs tridimensionals. En la versió educacional hi trobem aquest entorn de construcció utilitzat per estudiants i la creació de treballs col·laboratius en un entorn virtual. 
+El primer exemple d’hibridació que he escollit és el **joc de Minecraft la versió Education Edition**. Es tracta d’un joc de construcció on el jugador pot construir i explorar mons virtuals, fent servir els blocs tridimensionals. En la versió educativa hi trobem aquest entorn de construcció utilitzat per estudiants i la creació de treballs col·laboratius en un entorn virtual. 
 
-En aquest cas trobem la hibridació, en la fusió de joc i educació. Els alumnes poden utilitzar Minecraft com una eina per aprendre i ensenyar i només amb el fi de jugar. Han reconvertit aquest sistema “divertit” en un joc que aporti coneixements, eines col·laboratives amb altres companys i ensenyar. És una eina diferent d’altres tipologies de presentacions, en aquest cas s’utilitza un joc per presentar el treball i amb un fi lúdic. 
+En aquest cas trobem la hibridació en la fusió de joc i educació. Els alumnes poden utilitzar Minecraft com una eina per aprendre i ensenyar i només amb el fi de jugar. Han reconvertit aquest sistema “divertit” en un joc que aporti coneixements, eines col·laboratives amb altres companys i el fet de poder ensenyar. És una eina diferent d’altres tipologies de presentacions, en aquest cas s’utilitza un joc per presentar el treball i amb un fi lúdic. 
 
-Aquesta eina fomenta la creativitat, en el joc original la creativitat s’utilitza per crear construccions, però en el joc lúdic, aquesta creativitat s’ha de treballar més, i es potencia, perquè té un fi. Han de mostrar les seves habilitats de construcció per  representar  el treball educatiu visualment. A més a més, Minecraft permet la col·laboració en línia amb altres avatars, sigui , per construït o explorar junts, d’aquesta manera es fomenta les habilitats de treballar amb equip d’una manera diferent dels treballs convencionals: videotrucades, físic, document compartit. Integra el contingut educatiu d’una manera única i efectiva. 
+Aquesta eina fomenta la creativitat, en el joc original la creativitat s’utilitza per crear construccions, però en el joc lúdic, aquesta creativitat s’ha de treballar més, i es potencia, perquè té un fi. Han de mostrar les seves habilitats de construcció per  representar  el treball educatiu visualment. A més a més, Minecraft permet la col·laboració en línia amb altres avatars, sigui , per construïr o explorar junts, d’aquesta manera es fomenta les habilitats de treballar amb equip d’una manera diferent dels treballs convencionals: videotrucades, físic, document compartit. Integra el contingut educatiu d’una manera única i efectiva. 
 
-Finalment, els professors es poden fer valdre d’aquesta eina per poder així incentivar i aprofitar l’èxit d’aquest joc per motivar als seus alumnes en el procés d’aprenentatge. Els educadors poden crear entorns virtuals de l’assignatura o del concepte que volen treballar i fer que els alumnes interactuïn i explorin. Poden aprendre mentre exploren, sobre biologia, història, geografia, programació. 
+Finalment, els professors es poden fer valdre d’aquesta eina per poder així incentivar i aprofitar l’èxit d’aquest joc per motivar als seus alumnes en el procés d’aprenentatge. Els educadors poden crear entorns virtuals de l’assignatura o del concepte que volen treballar i fer que els alumnes interactuïn i explorin. Poden aprendre mentre exploren, sobre biologia, història, geografia, programació, etc. 
 
-Finalment, gràcies a aquesta adaptació del joc, podem trobar la hibridació com combina la popularitat del joc amb objectius educatius. La inclusió d’un contingut educatiu dins d’un entorn familiar per als estudiants ajuda que l’aprenentatge sigui més atractiu i participatiu. En l’àmbit educatiu es pot aprofitar aquesta gamificació per involucrar als seus estudiants de manera activa, proporcionant una manera d’aprenentatge no convencional i única. 
+Finalment, gràcies a aquesta adaptació del joc, podem trobar la hibridació com combina la popularitat del joc amb objectius educatius. La inclusió d’un contingut educatiu dins d’un entorn familiar per als estudiants ajuda que l’aprenentatge sigui més atractiu i participatiu. En l’àmbit educatiu es pot aprofitar aquesta gamificació per involucrar als seus estudiants de manera activa, proporcionant una manera d’aprenentatge no convencional i una experiencia única. 
 
-***Exemples***
+***Possibles exemples del joc:**
 
 **1r Exemple:**
 
@@ -77,11 +77,11 @@ Podriem dir que aquest nou enfocament permet explorar noves maneres de explicar 
 
 Finalment, aquesta funció transgressora redefineix la narrativa visual audiovisual convecional i permet una interacció directa amb l’usuari i l’involucra en la trama, fa que sigui part de la historia. Aquesta experiencia fa que es converteixi en visualització d’aventura personalitzada, es una nova forma de consumir contingut on-line.
 
-***Exemples***
+***Exemples d'hibridació concrets al capítol***
 
 **1r Exemple:**
 Esmorzar amb l'Stefan:
-L'usuari ha de decidir quins cereals menjarà l'Stefan, depenent el que esculli establirà un to o un altre en la relació de les decisions de l'espectador que influiran al llarg del capítol. 
+L'usuari ha de decidir quins cereals menjarà l'Stefan, depenent el que esculli establirà portarà un estil o un altre en la relació de les decisions de l'espectador que influiran al llarg del capítol. 
 
 **2n Exemple:**
 Viatge en autobús:
@@ -93,7 +93,7 @@ Aquesta elecció final afectarà com acaba la sèrie i el destí del Stefan.
 
 ## Conclusió final
 
-Els dos exemples són clarament dissenys disruptius que s’utilitzen per millorar la qualitat del servei i oferir una perspectiva diferent en cada àmbit. La hibridació en aquests dos casos enriqueix significament l’experiència de l’usuari. Uneix elements que per naturalesa en un primer moment no lliga entre ells i crea un producte potent amb creativitat i innovació en l’actualitat. A més crea una certa complexitat on l'usuari ha de prendre decisions que afectaran el resultat final. Tant en la sèrie fa que l'usuari es qüestioni i s'interessi més per la trama, per altra banda, en el cas de la versió educativa de Minecraft, és important saber jugar i prendre bones decisions perquè el resultat final sigui l'esperat. 
+Els dos exemples són clarament dissenys disruptius que s’utilitzen per **millorar la qualitat del servei** i oferir una perspectiva diferent en cada àmbit. La hibridació en aquests dos casos enriqueix significament l’**experiència de l’usuari**. Uneix elements que per naturalesa en un primer moment no lliga entre ells i crea un producte potent amb creativitat i innovació en l’actualitat. A més crea una certa complexitat on l'usuari ha de prendre decisions que afectaran el resultat final. Tant en la sèrie fa que l'usuari es qüestioni i s'interessi més per la trama, per altra banda, en el cas de la versió educativa de Minecraft, és important saber jugar i prendre bones decisions perquè el resultat final sigui l'esperat. 
 
 
 
