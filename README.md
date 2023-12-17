@@ -1,6 +1,5 @@
 # PAC 3: Visionant el futur amb les ulleres de Manovich: La hibridació
 
- 
 
 
 *Creat per* **Maria Rodriguez**
@@ -30,6 +29,8 @@ Al seu llibre publicat l'any 2001, Lev Manovich ens ofereix una anàlisi innovad
 La hibridació es refereix a la convergència i barreja de diversos mitjans a l’entorn digital, donant lloc a la creació de formes noves i combinades. Aquest concepte destaca com la digitalització i la convergència tecnològica permeten la fusió de diferents tipus de mitjans i llenguatges, generant expressions més complexes i multidimensionals.
 Gràcies a aquesta nova forma de treballar, podem crear prototips i productes totalment destacats en el mercat, actualment hi ha moltíssims exemples d'hibridació que milloren la relació usuari-producte.
 
+----
+
 
 ### Redescobrint la hibridació: Cas 1
 
@@ -46,17 +47,17 @@ Finalment, els professors es poden fer valdre d’aquesta eina per poder així i
 
 Finalment, gràcies a aquesta adaptació del joc, podem trobar la hibridació com combina la popularitat del joc amb objectius educatius. La inclusió d’un contingut educatiu dins d’un entorn familiar per als estudiants ajuda que l’aprenentatge sigui més atractiu i participatiu. En l’àmbit educatiu es pot aprofitar aquesta gamificació per involucrar als seus estudiants de manera activa, proporcionant una manera d’aprenentatge no convencional i una experiencia única. 
 
-***Possibles exemples del joc:**
+### Possibles exemples del joc
 
-**1r Exemple:**
+#### 1r Exemple:
 
 Creació d'una estructura històrica amb els blocs tridimensionals del joc, com a activitat de classe col·laborativa. Aprendre creant en versió digital una estructura arquitectònica mentre aprenen història i l'antiga arquitectura. 
 
-**2n Exemple:**
+#### 2n Exemple:
 
 Classe digital, on el professorat pot crear un entorn totalment tematitzat per ensenyar el concepte o la matèria que vulgui donar. 
 
-**3r Exemple:**
+#### 3r Exemple:
 
 Creació d'un entorn virtual sobre el llibre que han de llegir a classe. Poden recrear la història o escollir un moment destacat per cadascun d'ells i recrear-lo. O poden escenificar d'una manera resumida la història, en comptes de fer un resum del llibre. 
 
@@ -77,24 +78,28 @@ Podriem dir que aquest nou enfocament permet explorar noves maneres de explicar 
 
 Finalment, aquesta funció transgressora redefineix la narrativa visual audiovisual convecional i permet una interacció directa amb l’usuari i l’involucra en la trama, fa que sigui part de la historia. Aquesta experiencia fa que es converteixi en visualització d’aventura personalitzada, es una nova forma de consumir contingut on-line.
 
-***Exemples d'hibridació concrets al capítol***
+### Exemples d'hibridació concrets al capítol
 
-**1r Exemple:**
+#### 1r Exemple:
 Esmorzar amb l'Stefan:
 L'usuari ha de decidir quins cereals menjarà l'Stefan, depenent el que esculli establirà portarà un estil o un altre en la relació de les decisions de l'espectador que influiran al llarg del capítol. 
 
-**2n Exemple:**
+#### 2n Exemple:
 Viatge en autobús:
 Aquí l'Stefan ha de decidir si accepta anar a casa del Colin, depenent si accepta o no, tindrà clares afectacions en la relació dels dos i canviarà la trama en general. 
 
-**3r Exemple:**
+#### 3r Exemple:
 Fi del joc:
 Aquesta elecció final afectarà com acaba la sèrie i el destí del Stefan. 
+
+----
+
 
 ## Conclusió final
 
 Els dos exemples són clarament dissenys disruptius que s’utilitzen per **millorar la qualitat del servei** i oferir una perspectiva diferent en cada àmbit. La hibridació en aquests dos casos enriqueix significament l’**experiència de l’usuari**. Uneix elements que per naturalesa en un primer moment no lliga entre ells i crea un producte potent amb creativitat i innovació en l’actualitat. A més crea una certa complexitat on l'usuari ha de prendre decisions que afectaran el resultat final. Tant en la sèrie fa que l'usuari es qüestioni i s'interessi més per la trama, per altra banda, en el cas de la versió educativa de Minecraft, és important saber jugar i prendre bones decisions perquè el resultat final sigui l'esperat. 
 
+----
 
 
 ### Referències y Bibliografia
