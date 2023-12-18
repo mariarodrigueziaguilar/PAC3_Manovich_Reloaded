@@ -32,7 +32,7 @@ Gràcies a aquesta nova forma de treballar, podem crear prototips i productes to
 ----
 
 
-### Redescobrint la hibridació: Cas 1
+### Cas 1: JOC DE MINECRAFT: EDUCATION EDITION
 
 ![Minecraft:Education Edition](https://i.postimg.cc/MHLqJVvh/MC-EDU-Blog-Image-Atlanta-Student-Ambassadors-800x600.jpg)
 > *Captura del joc Minecraft: Education Edition, podem veure un professor a una clase creat amb blocs tridimensionals.*
@@ -62,7 +62,7 @@ Classe digital, on el professorat pot crear un entorn totalment tematitzat per e
 Creació d'un entorn virtual sobre el llibre que han de llegir a classe. Poden recrear la història o escollir un moment destacat per cadascun d'ells i recrear-lo. O poden escenificar d'una manera resumida la història, en comptes de fer un resum del llibre. 
 
 
-### Redescobrint la hibridació: Cas 2
+### CAS 2: SÈRIE BLACK MIRROR: BANDERSNATCH
 
 ![Black Mirror: Bandersnatch](https://i.postimg.cc/FFk90C8v/2f1d7cd098a5d26c876ef7eb4f9744475-ES1247020-MG346088005.jpg)
 > *Captura d'un moment decisiu a la serie de Black Mirror: Bandersnatch.*
