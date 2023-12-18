@@ -61,6 +61,7 @@ Classe digital, on el professorat pot crear un entorn totalment tematitzat per e
 
 Creació d'un entorn virtual sobre el llibre que han de llegir a classe. Poden recrear la història o escollir un moment destacat per cadascun d'ells i recrear-lo. O poden escenificar d'una manera resumida la història, en comptes de fer un resum del llibre. 
 
+----
 
 ### CAS 2: SÈRIE BLACK MIRROR: BANDERSNATCH
 
